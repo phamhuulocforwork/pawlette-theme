@@ -1,0 +1,42 @@
+color-link default "#C6D0F5,#1C1F23"
+color-link comment "#5c6370"
+
+color-link identifier "#61afef"
+color-link identifier.class "#61afef"
+color-link identifier.var "#61afef"
+
+color-link constant "#d19a66"
+color-link constant.number "#d19a66"
+color-link constant.string "#98c379"
+
+color-link symbol "#c678dd"
+color-link symbol.brackets "#e06c75"
+color-link symbol.tag "#61afef"
+
+color-link type "#61afef"
+color-link type.keyword "#e5c07b"
+
+color-link special "#c678dd"
+color-link statement "#c678dd"
+color-link preproc "#c678dd"
+
+color-link underlined "#56b6c2"
+color-link error "bold #e06c75"
+color-link todo "bold #e5c07b"
+
+color-link diff-added "#98c379"
+color-link diff-modified "#e5c07b"
+color-link diff-deleted "#e06c75"
+
+color-link gutter-error "#e06c75"
+color-link gutter-warning "#e5c07b"
+
+color-link statusline "#abb2bf,#1C1F23"
+color-link tabbar "#abb2bf,#1C1F23"
+color-link indent-char "#4b5263"
+color-link line-number "#4b5263"
+color-link current-line-number "#61afef"
+
+color-link cursor-line "#3e4451,#C6D0F5"
+color-link color-column "#3e4451"
+color-link type.extended "default"
